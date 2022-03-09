@@ -1,0 +1,69 @@
+
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Fredoka', sans-serif;
+  margin: 90px;
+  }
+
+.greytab {
+  background-color: rgba(28, 8, 28, 0.4);
+  height: auto;
+  margin: 100px;
+  padding: 80px;
+  border-radius: 20px;
+  }
+
+  header {
+  text-align: center;
+  }
+
+.logo {
+  width: 200px;
+}
+
+h1{
+  color: rgb(85 235 13 / 84%);
+  font-size: 30px;
+}
+
+nav{
+  background-color: rgb(85 235 13 / 84%);
+  margin: 3px;
+  padding: 15px;
+  text-align: center;
+  }
+
+span{
+  color: white;
+}
+
+.nomemonopattino{
+  color: white;
+  font-size: 20px
+}
+
+.statocaricagiallo{
+  background-color:rgb(243 175 6 / 96%);
+  margin: 4px;
+  padding: 10px;
+  width: 40%;
+  border-radius: 10px;
+}
+
+.statocaricaverde{
+  background-color:rgb(6 243 60 / 86%);
+  margin: 4px;
+  padding: 10px;
+  width: 60%;
+  border-radius: 10px;
+}
+
+.statocaricarosso{
+  background-color:rgb(220 48 4 / 88%);
+  margin: 4px;
+  padding: 10px;
+  width: 15%;
+  border-radius: 10px;
+}
